@@ -8,7 +8,7 @@ namespace Oops_Assignment
 {
     internal interface IPlable
     {
-        void Play();
+        public void Play();
     }
 
     class VideoPlayer:IPlable
