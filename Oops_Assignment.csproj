@@ -5,7 +5,7 @@
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>Oops_Assignment.ClsHashTable</StartupObject>
+    <StartupObject>Oops_Assignment.ClsDictionary</StartupObject>
   </PropertyGroup>
 
 </Project>
